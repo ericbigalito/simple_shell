@@ -1,1 +1,1 @@
-SHELL is an interface that helps users interract with the operating system easily or let me say in writing.This project involves basically the user being able to enter command which is read from the interface by getline() function and being interpreted back to the system. This program also does shell commands like printing environment .
+This directory contains code for testing if team project is working
